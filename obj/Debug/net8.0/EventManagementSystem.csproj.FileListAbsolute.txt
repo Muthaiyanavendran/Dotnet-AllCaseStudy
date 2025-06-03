@@ -1,0 +1,4 @@
+C:\Users\prakash.k\Desktop\DotNetCaseStudies\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.k\Desktop\DotNetCaseStudies\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.AssemblyInfoInputs.cache
+C:\Users\prakash.k\Desktop\DotNetCaseStudies\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.AssemblyInfo.cs
+C:\Users\prakash.k\Desktop\DotNetCaseStudies\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.csproj.CoreCompileInputs.cache
