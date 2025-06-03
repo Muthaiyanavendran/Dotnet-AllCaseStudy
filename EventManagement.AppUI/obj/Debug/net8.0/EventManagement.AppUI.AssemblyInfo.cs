@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventManagement.AppUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+124dd4cf19a59e00061c65b8cabba6816fdb85c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventManagement.AppUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventManagement.AppUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
