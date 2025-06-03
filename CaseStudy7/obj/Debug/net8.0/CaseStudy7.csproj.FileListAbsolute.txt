@@ -1,0 +1,14 @@
+C:\Users\gunal.n\DotNet\CaseStudy7\bin\Debug\net8.0\CaseStudy7.exe
+C:\Users\gunal.n\DotNet\CaseStudy7\bin\Debug\net8.0\CaseStudy7.deps.json
+C:\Users\gunal.n\DotNet\CaseStudy7\bin\Debug\net8.0\CaseStudy7.runtimeconfig.json
+C:\Users\gunal.n\DotNet\CaseStudy7\bin\Debug\net8.0\CaseStudy7.dll
+C:\Users\gunal.n\DotNet\CaseStudy7\bin\Debug\net8.0\CaseStudy7.pdb
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\CaseStudy7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\CaseStudy7.AssemblyInfoInputs.cache
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\CaseStudy7.AssemblyInfo.cs
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\CaseStudy7.csproj.CoreCompileInputs.cache
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\CaseStudy7.dll
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\refint\CaseStudy7.dll
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\CaseStudy7.pdb
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\CaseStudy7.genruntimeconfig.cache
+C:\Users\gunal.n\DotNet\CaseStudy7\obj\Debug\net8.0\ref\CaseStudy7.dll
